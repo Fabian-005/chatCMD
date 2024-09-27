@@ -24,9 +24,9 @@ Ejecuta el comando para ejecutar el cliente.
     python3 cliente-socket.py
 ***	
 ### Comunicacion ###
-**Chat:** Los clientes pueden enviar mensajes de texto a todos los demas clientes conectados.
-**Comando /lsFiles:**  Lista los archivos disponibles en el servidor que se encuentran en la carpeta Files/.
-**Comando /get <nombre del archivo>  :** Descargara el archivo seleccionado y sera guardado dentro de la carpeta download/ si el archivo existe, de lo contrario se enviara un mensaje de error.
+- **Chat:** Los clientes pueden enviar mensajes de texto a todos los demas clientes conectados.
+- **Comando /lsFiles:**  Lista los archivos disponibles en el servidor que se encuentran en la carpeta Files/.
+- **Comando /get <nombre del archivo>  :** Descargara el archivo seleccionado y sera guardado dentro de la carpeta download/ si el archivo existe, de lo contrario se enviara un mensaje de error.
 ***	
 ### Salir ###
 Para finalizar el cliente y servidor simplemente escribe la palabra **Salir**.
